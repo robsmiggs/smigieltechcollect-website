@@ -5,7 +5,6 @@ Static HTML website for Smigiel Technologies and Collectibles.
 ## Local preview
 Open `index.html` in a browser.
 
-
 ## Azure Static Web Apps
 - App location: `/`
 - API location: leave blank
